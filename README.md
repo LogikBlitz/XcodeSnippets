@@ -1,7 +1,9 @@
 XcodeSnippets
 =============
-
-Custom XCode code snippets using the gem `xcodesnippets` for installation
+A collection of my own xcode snippets collected and discovered over time.  
+They are installed using the excellent Ruby Gem `xcodesnippets` by Luke Redpath.  
+I have added both a full bundle and the individual snippets, so it is possible to install 
+all snippets at once, or pick the ones you want to use.
 
 # Getting started
 
