@@ -16,7 +16,7 @@ Ruby gem:
 * Clone the code snippets
 * If you want to install all snippets use the bundle:  
 `$ xcodesnippets install-bundle [path-to-snippet-bundle]`
-* If you want to install each snippet explicetely use:  
+* If you want to install each snippet explicitly use:  
 `$ xcodesnippets install [path-to-snippet-file]`
 
 
