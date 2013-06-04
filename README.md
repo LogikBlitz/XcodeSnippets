@@ -1,7 +1,7 @@
 XcodeSnippets
 =============
 
-Custom XCode code snippets using the gem xcodesnippets for installation
+Custom XCode code snippets using the gem `xcodesnippets` for installation
 
 # Getting started
 
@@ -11,10 +11,10 @@ Ruby gem:
 	$ sudo gem install xcodesnippets
 	
 ## Installing the snippets
-	*Clone the code snippets
-	*If you want to install all snippets use the bundle:
+	* Clone the code snippets
+	* If you want to install all snippets use the bundle:
 		$ xcodesnippets install-bundle [path-to-snippet-bundle]
-	*if you want to install each snippet explicetely use:
+	* If you want to install each snippet explicetely use:
 		$ xcodesnippets install [path-to-snippet-file]
 
 
