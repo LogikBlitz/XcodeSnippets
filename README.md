@@ -9,8 +9,8 @@ all snippets at once, or pick the ones you want to use.
 
 The code snippets uses the Ruby Gem `xcodesnippets` by Luke Redpath. It can be found on 
 [GitHub](https://github.com/lukeredpath/xcodesnippets) or installed from the Terminal using
-Ruby gem:
-	$ sudo gem install xcodesnippets
+Ruby gem:  
+    $ sudo gem install xcodesnippets
 	
 ## Installing the snippets
 * Clone the code snippets
